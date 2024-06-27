@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "199246698222",
+    "project_id": "fir-76fa5",
+    "storage_bucket": "fir-76fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199246698222:android:f2d4e394ab5a8128a6c5ff",
+        "android_client_info": {
+          "package_name": "com.bitsp.campusquora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuz1U-A5ZR0i9_9SsnmwMMSvWkcknwV3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199246698222-d311797spd9e09a943ufec233682nju5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramCloneFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199246698222:android:620ee8fd1cab9502a6c5ff",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuz1U-A5ZR0i9_9SsnmwMMSvWkcknwV3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199246698222-d311797spd9e09a943ufec233682nju5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramCloneFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199246698222:android:b9038f4596a88c4aa6c5ff",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuz1U-A5ZR0i9_9SsnmwMMSvWkcknwV3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199246698222-d311797spd9e09a943ufec233682nju5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramCloneFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199246698222:android:c625c60b3f460adaa6c5ff",
+        "android_client_info": {
+          "package_name": "com.mycompany.tailorapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuz1U-A5ZR0i9_9SsnmwMMSvWkcknwV3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199246698222-19ds854gm6131a1p6ed2rrotgd70t8ne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199246698222-d311797spd9e09a943ufec233682nju5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramCloneFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
